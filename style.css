@@ -1,0 +1,14 @@
+#bg1{
+  /*  background-color: red; */
+    padding: 0;
+    margin: 0;
+    background-image: url(photo1.jpeg) ;
+   background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: cover;
+  background-attachment: fixed ;
+    }
+
+    #photo{
+        background-image: url(photo1.jpeg);
+    }
